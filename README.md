@@ -1,4 +1,4 @@
-# 🍔 Mini Uber Eats – Spring Boot + Vaadin
+# 🍔 EatGo – Spring Boot + Vaadin
 
 Aplikacja edukacyjna inspirowana Uber Eats, stworzona w 100% w Javie z użyciem **Spring Boot (backend + REST)** oraz **Vaadin (frontend webowy)**.  
 Projekt wspiera wiele ról użytkowników: **Klient, Restauracja (Admin), Kurier**.  
